@@ -52,6 +52,9 @@ idle_timer = 0
 blink_timer = 0
 blink_count = 0
 is_blinking = False
+#jump
+pet_y_offset = 0
+bounce_timer = 0
 
 # Game loop
 running = True
